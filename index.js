@@ -32,3 +32,11 @@
 //         console.log(data);
 //     }
 // });
+
+
+// Example 3
+const moment = require("moment");
+
+let date = moment("2021-02-01");
+let addWeek = date.add(7, 'week');
+console.log(date.format());

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/josh-W42/my-basic-node-proj/issues"
   },
-  "homepage": "https://github.com/josh-W42/my-basic-node-proj#readme"
+  "homepage": "https://github.com/josh-W42/my-basic-node-proj#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
