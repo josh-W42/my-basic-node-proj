@@ -1,0 +1,20 @@
+{
+  "name": "my-basic-node-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-W42/my-basic-node-proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh-W42/my-basic-node-proj/issues"
+  },
+  "homepage": "https://github.com/josh-W42/my-basic-node-proj#readme"
+}
